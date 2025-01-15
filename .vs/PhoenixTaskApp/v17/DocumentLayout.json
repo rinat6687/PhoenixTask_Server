@@ -1,0 +1,386 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|c:\\rinat\\phoenixtask\\phoenixtaskapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|c:\\rinat\\phoenixtask\\phoenixtaskapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|c:\\rinat\\phoenixtask\\phoenixtaskapp\\viewmodels\\operationstype\\operationstyperesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|solutionrelative:viewmodels\\operationstype\\operationstyperesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|c:\\rinat\\phoenixtask\\phoenixtaskapp\\viewmodels\\accounttransactions\\transactionsandstatusresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|solutionrelative:viewmodels\\accounttransactions\\transactionsandstatusresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|c:\\rinat\\phoenixtask\\phoenixtaskapp\\viewmodels\\accounttransactions\\transactionslistsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|solutionrelative:viewmodels\\accounttransactions\\transactionslistsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|c:\\rinat\\phoenixtask\\phoenixtaskapp\\viewmodels\\accounttransactions\\accounttransactionsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|solutionrelative:viewmodels\\accounttransactions\\accounttransactionsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|c:\\rinat\\phoenixtask\\phoenixtaskapp\\viewmodels\\accounttransactions\\accounttransactionsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|solutionrelative:viewmodels\\accounttransactions\\accounttransactionsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|c:\\rinat\\phoenixtask\\phoenixtaskapp\\services\\bankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|solutionrelative:services\\bankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|c:\\rinat\\phoenixtask\\phoenixtaskapp\\mapping\\accounttransactionmappingprofile .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|solutionrelative:mapping\\accounttransactionmappingprofile .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|c:\\rinat\\phoenixtask\\phoenixtaskapp\\data\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|solutionrelative:data\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|c:\\rinat\\phoenixtask\\phoenixtaskapp\\core\\businessobjects\\boaccounttransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|solutionrelative:core\\businessobjects\\boaccounttransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|c:\\rinat\\phoenixtask\\phoenixtaskapp\\core\\businessentities\\operationstype\\operationstypedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|solutionrelative:core\\businessentities\\operationstype\\operationstypedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|c:\\rinat\\phoenixtask\\phoenixtaskapp\\core\\businessentities\\global\\tokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|solutionrelative:core\\businessentities\\global\\tokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|c:\\rinat\\phoenixtask\\phoenixtaskapp\\core\\businessentities\\global\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|solutionrelative:core\\businessentities\\global\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|c:\\rinat\\phoenixtask\\phoenixtaskapp\\core\\businessentities\\accounttransaction\\transactionslistsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|solutionrelative:core\\businessentities\\accounttransaction\\transactionslistsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|c:\\rinat\\phoenixtask\\phoenixtaskapp\\core\\businessentities\\accounttransaction\\transactionsandstatusdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|solutionrelative:core\\businessentities\\accounttransaction\\transactionsandstatusdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|c:\\rinat\\phoenixtask\\phoenixtaskapp\\core\\businessentities\\accounttransaction\\accounttransactiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|solutionrelative:core\\businessentities\\accounttransaction\\accounttransactiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|c:\\rinat\\phoenixtask\\phoenixtaskapp\\controllers\\accounttransactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|solutionrelative:controllers\\accounttransactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 237,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T00:33:01.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionsAndStatusResponse.cs",
+              "DocumentMoniker": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\ViewModels\\AccountTransactions\\TransactionsAndStatusResponse.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AccountTransactions\\TransactionsAndStatusResponse.cs",
+              "ToolTip": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\ViewModels\\AccountTransactions\\TransactionsAndStatusResponse.cs",
+              "RelativeToolTip": "ViewModels\\AccountTransactions\\TransactionsAndStatusResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T00:32:55.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionsListsResponse.cs",
+              "DocumentMoniker": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\ViewModels\\AccountTransactions\\TransactionsListsResponse.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AccountTransactions\\TransactionsListsResponse.cs",
+              "ToolTip": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\ViewModels\\AccountTransactions\\TransactionsListsResponse.cs",
+              "RelativeToolTip": "ViewModels\\AccountTransactions\\TransactionsListsResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T00:32:54.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountTransactionsResponse.cs",
+              "DocumentMoniker": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\ViewModels\\AccountTransactions\\AccountTransactionsResponse.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AccountTransactions\\AccountTransactionsResponse.cs",
+              "ToolTip": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\ViewModels\\AccountTransactions\\AccountTransactionsResponse.cs",
+              "RelativeToolTip": "ViewModels\\AccountTransactions\\AccountTransactionsResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T00:32:52.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountTransactionsRequest.cs",
+              "DocumentMoniker": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\ViewModels\\AccountTransactions\\AccountTransactionsRequest.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AccountTransactions\\AccountTransactionsRequest.cs",
+              "ToolTip": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\ViewModels\\AccountTransactions\\AccountTransactionsRequest.cs",
+              "RelativeToolTip": "ViewModels\\AccountTransactions\\AccountTransactionsRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T00:32:52.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountTransactionMappingProfile .cs",
+              "DocumentMoniker": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\Mapping\\AccountTransactionMappingProfile .cs",
+              "RelativeDocumentMoniker": "Mapping\\AccountTransactionMappingProfile .cs",
+              "ToolTip": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\Mapping\\AccountTransactionMappingProfile .cs",
+              "RelativeToolTip": "Mapping\\AccountTransactionMappingProfile .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T00:32:41.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OperationsTypeData.cs",
+              "DocumentMoniker": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\Core\\BusinessEntities\\OperationsType\\OperationsTypeData.cs",
+              "RelativeDocumentMoniker": "Core\\BusinessEntities\\OperationsType\\OperationsTypeData.cs",
+              "ToolTip": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\Core\\BusinessEntities\\OperationsType\\OperationsTypeData.cs",
+              "RelativeToolTip": "Core\\BusinessEntities\\OperationsType\\OperationsTypeData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T00:26:38.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:47:33.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OperationsTypeResponse.cs",
+              "DocumentMoniker": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\ViewModels\\OperationsType\\OperationsTypeResponse.cs",
+              "RelativeDocumentMoniker": "ViewModels\\OperationsType\\OperationsTypeResponse.cs",
+              "ToolTip": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\ViewModels\\OperationsType\\OperationsTypeResponse.cs",
+              "RelativeToolTip": "ViewModels\\OperationsType\\OperationsTypeResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:19:49.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TransactionsListsData.cs",
+              "DocumentMoniker": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\Core\\BusinessEntities\\AccountTransaction\\TransactionsListsData.cs",
+              "RelativeDocumentMoniker": "Core\\BusinessEntities\\AccountTransaction\\TransactionsListsData.cs",
+              "ToolTip": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\Core\\BusinessEntities\\AccountTransaction\\TransactionsListsData.cs",
+              "RelativeToolTip": "Core\\BusinessEntities\\AccountTransaction\\TransactionsListsData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T00:26:30.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\Core\\BusinessEntities\\Global\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Core\\BusinessEntities\\Global\\ApiResponse.cs",
+              "ToolTip": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\Core\\BusinessEntities\\Global\\ApiResponse.cs",
+              "RelativeToolTip": "Core\\BusinessEntities\\Global\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T00:26:34.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TransactionsAndStatusData.cs",
+              "DocumentMoniker": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\Core\\BusinessEntities\\AccountTransaction\\TransactionsAndStatusData.cs",
+              "RelativeDocumentMoniker": "Core\\BusinessEntities\\AccountTransaction\\TransactionsAndStatusData.cs",
+              "ToolTip": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\Core\\BusinessEntities\\AccountTransaction\\TransactionsAndStatusData.cs",
+              "RelativeToolTip": "Core\\BusinessEntities\\AccountTransaction\\TransactionsAndStatusData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T00:26:27.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountTransactionData.cs",
+              "DocumentMoniker": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\Core\\BusinessEntities\\AccountTransaction\\AccountTransactionData.cs",
+              "RelativeDocumentMoniker": "Core\\BusinessEntities\\AccountTransaction\\AccountTransactionData.cs",
+              "ToolTip": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\Core\\BusinessEntities\\AccountTransaction\\AccountTransactionData.cs",
+              "RelativeToolTip": "Core\\BusinessEntities\\AccountTransaction\\AccountTransactionData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T21:08:17.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BoAccountTransaction.cs",
+              "DocumentMoniker": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\Core\\BusinessObjects\\BoAccountTransaction.cs",
+              "RelativeDocumentMoniker": "Core\\BusinessObjects\\BoAccountTransaction.cs",
+              "ToolTip": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\Core\\BusinessObjects\\BoAccountTransaction.cs",
+              "RelativeToolTip": "Core\\BusinessObjects\\BoAccountTransaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:35:43.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BankService.cs",
+              "DocumentMoniker": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\Services\\BankService.cs",
+              "RelativeDocumentMoniker": "Services\\BankService.cs",
+              "ToolTip": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\Services\\BankService.cs",
+              "RelativeToolTip": "Services\\BankService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T21:00:32.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TokenRequest.cs",
+              "DocumentMoniker": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\Core\\BusinessEntities\\Global\\TokenRequest.cs",
+              "RelativeDocumentMoniker": "Core\\BusinessEntities\\Global\\TokenRequest.cs",
+              "ToolTip": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\Core\\BusinessEntities\\Global\\TokenRequest.cs",
+              "RelativeToolTip": "Core\\BusinessEntities\\Global\\TokenRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T00:26:35.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\Data\\DbContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DbContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\Data\\DbContext\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\DbContext\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:48:02.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccountTransactionController.cs",
+              "DocumentMoniker": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\Controllers\\AccountTransactionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountTransactionController.cs",
+              "ToolTip": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\Controllers\\AccountTransactionController.cs",
+              "RelativeToolTip": "Controllers\\AccountTransactionController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:35:08.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
