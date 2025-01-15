@@ -86,3 +86,4 @@ C:\Rinat\PhoenixTask\PhoenixTaskApp\obj\Debug\net8.0\refint\PhoenixTaskApp.dll
 C:\Rinat\PhoenixTask\PhoenixTaskApp\obj\Debug\net8.0\PhoenixTaskApp.pdb
 C:\Rinat\PhoenixTask\PhoenixTaskApp\obj\Debug\net8.0\PhoenixTaskApp.genruntimeconfig.cache
 C:\Rinat\PhoenixTask\PhoenixTaskApp\obj\Debug\net8.0\ref\PhoenixTaskApp.dll
+C:\Rinat\PhoenixTask\PhoenixTaskApp\obj\Debug\net8.0\PhoenixTaskApp.sourcelink.json
