@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhoenixTaskApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f64facdd095f6d76720dd64c70902e55aac883f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+689e691fb86a37442f774aa8ac52ee1d00cb907c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhoenixTaskApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhoenixTaskApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

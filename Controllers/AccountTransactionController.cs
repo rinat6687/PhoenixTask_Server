@@ -40,5 +40,13 @@ namespace PhoenixTaskApp.Controllers
             var ret = await _boAccountTransaction.DeleteTransactionAsync(transactionId);
             return Ok(_mapper.Map<TransactionsAndStatusResponse>(ret));
         }
+
+        [HttpPost("update")]
+        public async Task<OkObjectResult> UpdateTransaction(AccountTransactionsRequest request)
+        {
+            var data = _mapper.Map<AccountTransactionData>(request);
+            var ret = await _boAccountTransaction.UpdateTransactionAsync(data);
+            return Ok(_mapper.Map<TransactionsAndStatusResponse>(ret));
+        }
     }
 }

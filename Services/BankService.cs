@@ -144,7 +144,18 @@ namespace PhoenixTaskApp.Services
             };
         }
 
-      
+
+        public async Task<ApiResponse> UpdateBankTransactionAsync(AccountTransactionData accountTransactionData)
+        {
+            //todo: get token and update transaction in bank
+            return new ApiResponse
+            {
+                Code = 200,
+                Data = "Success"
+            };
+        }
+
+
 
     }
 

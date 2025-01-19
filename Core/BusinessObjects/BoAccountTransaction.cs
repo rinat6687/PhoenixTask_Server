@@ -146,6 +146,49 @@ namespace PhoenixTaskApp.Core.BusinessObjects
 
         }
 
+        public async Task<TransactionsAndStatusData> UpdateTransactionAsync(AccountTransactionData accountTransactionData)
+        {
+            AccountTransactions? accountTransactions = await _context.AccountTransactions.Where(at => at.TransactionId == accountTransactionData.TransactionId).FirstOrDefaultAsync();
+            TransactionsAndStatusData transactionsAndStatus;
+
+            if (accountTransactions != null)
+            {
+                // update transaction to bank
+                ApiResponse response = await _bankService.UpdateBankTransactionAsync(accountTransactionData);
+
+                // check if success
+                if (response.Code >= 200 && response.Code <= 299)
+                {
+                    // update in db
+                    accountTransactions.OperationId = accountTransactionData.OperationId;
+                    accountTransactions.AccountNumber = accountTransactionData.AccountNumber;
+                    accountTransactions.Amount = accountTransactionData.Amount;
+                    accountTransactions.TransactionDate = DateTime.Now;
+
+                    await _context.SaveChangesAsync();
+                }
+
+                //return request status and user transactions data
+                List<AccountTransactionData> transactionsData = await GetTransactionsDataAsync(accountTransactions.UserId);
+
+                transactionsAndStatus = new TransactionsAndStatusData()
+                {
+                    Code = response.Code,
+                    Status = response.Data,
+                    Transactions = transactionsData
+                };
+
+                return transactionsAndStatus;
+            }
+
+            return transactionsAndStatus = new TransactionsAndStatusData()
+            {
+                Code = 500,
+                Status = "Not Found",
+                Transactions = null
+            };
+        }
+
     }
 
 
