@@ -4,6 +4,7 @@ using System.Text;
 using PhoenixTaskApp.Core.BusinessEntities.Global;
 using Azure;
 using Microsoft.AspNetCore.DataProtection;
+using System.Net.Http.Headers;
 using PhoenixTaskApp.Core.BusinessEntities.AccountTransaction;
 
 namespace PhoenixTaskApp.Services
@@ -69,7 +70,7 @@ namespace PhoenixTaskApp.Services
             //        SecretId = "Je45GDf34"  //todo: save in appsetings.json
             //    };
 
-            //     Get token
+            //     //Get token
             //    ApiResponse response = await GetTokenAsync(tokenRequest);
 
             //    if (response.Code == 200)
@@ -89,8 +90,12 @@ namespace PhoenixTaskApp.Services
             //            Encoding.UTF8,
             //            "application/json"
             //        );
+            
+            //        //Add the token to the request headers
+            //        var token = response.Data;
+            //        _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
 
-            //         Send request
+            //        //Send request
             //        var operationResponse = await _httpClient.PostAsync(operationUrl, operationContent);
 
             //        if (!operationResponse.IsSuccessStatusCode)
